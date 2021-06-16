@@ -1,2 +1,2 @@
 cmd.exe
-//This opens cmd prompt
+rem This will open commands promt
